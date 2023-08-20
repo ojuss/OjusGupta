@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ojus-kumar-299b4024b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ojus-kumar-299b4024b/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ojusgup/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ojusgup/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/guptaojas75?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/guptaojas75?hr_r=1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ojus-kumar-299b4024b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ojus-kumar-299b4024b/" height="30" width="40" /></a>
+<a href="https://instagram.com/ojusgup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ojusgup" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/guptaojas75?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="guptaojas75?hr_r=1" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/gprZUGqVSR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/gprZUGqVSR" height="30" width="40" /></a>
 </p>
 
