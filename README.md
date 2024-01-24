@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Landing pages for websites**
 
-- 💬 Ask me about **C/C++/HTML5/CSS3**
+- 💬 Ask me about **C/C++/HTML5/CSS3/JS**
 
 - 📫 How to reach me **guptaojas75@gmail.com**
 
